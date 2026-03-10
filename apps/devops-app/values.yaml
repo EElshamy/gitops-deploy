@@ -5,7 +5,7 @@ replicaCount: 2
 image:
   repository: eslamelshamy/devops-app
   pullPolicy: IfNotPresent
-  tag: "6.0"
+  tag: "latest"
 
 
 imagePullSecrets: []
